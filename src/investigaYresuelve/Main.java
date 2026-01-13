@@ -15,6 +15,5 @@ public class Main {
 		System.out.println("Número del pedido: " + pedido1.getNumero());
 		System.out.println("Estado del pedido: " + pedido1.getEstado());
 		System.out.println("Total del pedido: " + pedido1.calcularTotal());
-		System.out.println("El estado del producto es: " + pedido1.getEstado());
 	}
 }
